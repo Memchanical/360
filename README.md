@@ -3,7 +3,7 @@ My project portfolio
 
 ### 360
 
-<script src="//vizor.io/static/scripts/vizor-360-embed.js" data-vizorurl="//vizor.io/embed/vision/el-dorado-high-school-entrance"></script>
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/vision/el-dorado-high-school-entrance'></script>
 
 
 Project Description
